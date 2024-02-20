@@ -1,0 +1,9 @@
+Name: Insert Old Pipe
+Description: Inserts `%>%` at the cursor position.
+Binding: insertOldPipe
+Interactive: false
+
+Name: Insert New Pipe
+Description: Inserts `|>` at the cursor position.
+Binding: insertNewPipe
+Interactive: false
